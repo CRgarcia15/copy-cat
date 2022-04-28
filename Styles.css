@@ -1,0 +1,47 @@
+.card-container {
+    border: 1px solid black;
+}
+
+.navbar > h1 {
+    text-align: left;
+}
+
+.navbar > nav {
+    text-align: right;
+}
+
+.nav {
+    text-decoration: none;
+   color: white;
+}
+
+.jargon {
+    background-color:#F5F5DC;
+    border: 1px solid black;
+}
+
+.hero {
+    padding-top: -500px;
+}
+footer {
+    background-color: black;
+    color: white;
+}
+
+ footer > p {
+     text-align: right;
+ }
+
+ .footer > h1 {
+     text-align: left;
+ }
+
+ .footerLinks{
+    text-align: center;
+    font-size: small;
+ }
+
+.questions {
+    text-align: right;
+    font-size: small;
+}
